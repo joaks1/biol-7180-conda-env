@@ -1,0 +1,16 @@
+name: biol-7180
+channels:
+  - conda-forge
+dependencies:
+  - git
+  - python>=3.8
+  - pip
+  - setuptools
+  - bpython
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - scipy
+  - pytest
+  - ruff
